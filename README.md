@@ -56,7 +56,7 @@ And many more…..
 
 Inkbot is based on a free open source software named Inkpad. Source code is available under the Mozilla Public License v2 on https: https://github.com/sprang/Inkpad 
 
-Inkpad requires iOS 7. It is available on the [App Store](https://itunes.apple.com/app/id765099322).
+Inkbot requires iOS 7. It is available on the [App Store](https://itunes.apple.com/app/id765099322).
 
 License
 -------
